@@ -60,12 +60,12 @@ Although its speed is relatively slow, it prioritizes accuracy.
 
 ---
 
-<!-- ## 🎬 Demo Videos
+## 🎬 Demo Videos
 
-- 📹 [`Demo Video 1`](Videos/demo1.mp4) – General line following and Bluetooth control  
-- 📹 [`Demo Video 2`](Videos/demo2.mp4) – Handling curves and gaps
+- 📹 [`General line following and Bluetooth control`](https://youtu.be/90mx6-P2Grg) 
+- 📹 [`Handling curves and gaps`](Videos/demo2.mp4)
 
---- -->
+---
 
 ## ⚙️ How It Works
 
