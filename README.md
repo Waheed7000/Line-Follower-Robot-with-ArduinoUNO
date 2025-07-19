@@ -124,7 +124,7 @@ Wiring Example:
 ```
 Arduino TX → 1.8kΩ → HC-05 RX
                ↓
-             1.3kΩ
+             3.3kΩ
                ↓
               GND
 ```
