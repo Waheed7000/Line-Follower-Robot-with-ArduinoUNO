@@ -63,7 +63,7 @@ Although its speed is relatively slow, it prioritizes accuracy.
 ## 🎬 Demo Videos
 
 - 📹 [`General line following and Bluetooth control`](https://youtu.be/90mx6-P2Grg) 
-- 📹 [`Handling curves and gaps`](Videos/demo2.mp4)
+- 📹 [`Handling curves and gaps`](https://youtube.com/shorts/bSVEOfU6iLM?feature=share)
 
 ---
 
