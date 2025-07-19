@@ -149,7 +149,7 @@ You can use a mobile terminal app to control the robot (e.g. forward, stop, left
 ## 👥 Team Members
 
 - **Ahmed Waheed**   
-<!-- - **Eslam M. Dahy** -->
+- **Eslam Dahy**
 
 ---
 
