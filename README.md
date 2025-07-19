@@ -40,23 +40,23 @@ Although its speed is relatively slow, it prioritizes accuracy.
 - `*` 3-Channel IR Sensor (Number of sensors can vary depending on logic)
 
 📷 **Geared Motor**  
-<img src="images/Components/TT_Motor.jpg" width="300" /><br>
+<img src="Images/Components/TT_Motor.jpg" width="300" /><br>
 
 📷 **3-Channel IR Sensor Photos**<br>
-<img src="images/Components/3_Chanel_IR1.jpg" width="300" />
-<img src="images/Components/3_Chanel_IR2.jpg" width="300" /><br><br>
+<img src="Images/Components/3_Chanel_IR1.jpg" width="300" />
+<img src="Images/Components/3_Chanel_IR2.jpg" width="300" /><br><br>
   
 📷 **Metal Caster Wheel Photo**<br>
-<img src="images/Components/Metal_Caster_Wheel.jpg" width="300" /><br><br>
+<img src="Images/Components/Metal_Caster_Wheel.jpg" width="300" /><br><br>
 
 
 ---
 
 ## 📸 Robot Photos  
 
-<img src="images/RobotPhotos/photo1.jpg" width="400" />
-<img src="images/RobotPhotos/photo2.jpg" width="400" />
-<img src="images/RobotPhotos/photo3.jpg" width="400" /><br><br>
+<img src="Images/RobotPhotos/photo1.jpg" width="400" />
+<img src="Images/RobotPhotos/photo2.jpg" width="400" />
+<img src="Images/RobotPhotos/photo3.jpg" width="400" /><br><br>
 
 ---
 
@@ -81,7 +81,7 @@ Although its speed is relatively slow, it prioritizes accuracy.
 Line-Follower-Robot/
 ├── code/
 │   └── line_tracker_robot_src.ino
-├── images/
+├── Images/
 │   ├── Components/
 |   |   ├── 3_Chanel_IR1.jpg
 |   |   ├── 3_Chanel_IR2.jpg
