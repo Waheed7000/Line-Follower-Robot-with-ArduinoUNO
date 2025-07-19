@@ -146,6 +146,13 @@ You can use a mobile terminal app to control the robot (e.g. forward, stop, left
 
 ---
 
+## 👥 Team Members
+
+- **Ahmed Waheed**   
+- **Eslam M. Dahy**
+
+---
+
 ## 📜 License
 
 This project is free to use for learning and educational purposes.  
